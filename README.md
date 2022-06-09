@@ -22,11 +22,10 @@
 	    <a
 	    href="https://github.com/JulienBuonarota/Climbing_data/blob/master/tool_boulder_parser.py">
 	    boulder parser function</a></li>.
-		<li>All the informations
-	    gathered with the python web scraper are stored in a Postresql
+		<li>All the informations gathered with the python web scraper are stored in a <b>Postresql</b>
 	    database with this <a
 	    href="https://github.com/JulienBuonarota/Climbing_data/blob/master/tool_DB.py">
-	     database tools </a> </li>. The database itself was created with a <a href="https://github.com/JulienBuonarota/Climbing_data/blob/master/script_table_creation.py"> python script</a> </ul>
+	     database tools </a> written in <b>python</b></li>. The database itself was created with this <a href="https://github.com/JulienBuonarota/Climbing_data/blob/master/script_table_creation.py"> python script</a> </ul>
 		
   <li> <a href="https://github.com/JulienBuonarota/ProcessLogger">Process Logger</a>: Simple to use bash script</li>
         ProcessLogger allow to keep a log of process, keeping track of their execution.
