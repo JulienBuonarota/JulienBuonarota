@@ -1,7 +1,7 @@
 👋 Hi, I’m Julien Buonarota 
 
   I am interested in Data science and open source code.
-  As such I am a happy user of Emacs and mostly code in python, SQL, R, bash and of course elisp.
+  As such I am a happy user of Emacs and mostly code in python, SQL, R, bash and a bit of elisp.
   
   
   # Data Science Portefolio
